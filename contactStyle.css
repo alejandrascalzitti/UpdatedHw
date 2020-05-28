@@ -1,0 +1,10 @@
+body {
+    margin:30px;
+    background-image:url(https://img.freepik.com/free-vector/abstract-geometric-shape-connection-with-3d-cubes-background_42705-105.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h1 {
+    font-family:cursive;
+}
